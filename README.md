@@ -66,6 +66,7 @@ By utilizing `ChangeDetectionStrategy.OnPush`, the components can benefit from b
 - Ensure that you have a stable internet connection to fetch data from the JSONPlaceholder API.
 - The JSONPlaceholder API is a mock API and may have limitations or intermittent availability.
 
-| Statements                  | Branches                | Functions                 | Lines             |
-| --------------------------- | ----------------------- | ------------------------- | ----------------- |
-| ![Statements](#statements#) | ![Branches](#branches#) | ![Functions](#functions#) | ![Lines](#lines#) |
+## Testing
+
+The codebase is fully tested to ensure functionality and maintain code quality. Unit tests cover various components, services, and state management. To run the tests, use the following command: 
+`npm test`
