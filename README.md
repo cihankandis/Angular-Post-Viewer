@@ -65,3 +65,7 @@ By utilizing `ChangeDetectionStrategy.OnPush`, the components can benefit from b
 
 - Ensure that you have a stable internet connection to fetch data from the JSONPlaceholder API.
 - The JSONPlaceholder API is a mock API and may have limitations or intermittent availability.
+
+| Statements                  | Branches                | Functions                 | Lines             |
+| --------------------------- | ----------------------- | ------------------------- | ----------------- |
+| ![Statements](#statements#) | ![Branches](#branches#) | ![Functions](#functions#) | ![Lines](#lines#) |
